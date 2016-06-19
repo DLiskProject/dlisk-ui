@@ -1,6 +1,6 @@
 # DL(i)sk UI
 
-DL(i)sk is a next generation crypto-currency and blockchain application platform, written entirely in JavaScript. For more information please refer to our website: https://dlisk.io/.
+DL(i)sk is a next generation crypto-currency and blockchain application platform, written entirely in JavaScript. For more information please refer to our website: https://dlisk.com/.
 
 This repository contains the [AngularJS](https://angularjs.org/) based user-interface submodule of the DL(i)sk client.
 
@@ -26,16 +26,18 @@ grunt release
 
 ## Authors
 
+- Jan West <janwest01987@gmail.com>
 - Vera Nekrasova <vera.limita@gmail.com>
 - Boris Povod <boris@crypti.me>
-- Oliver Beddows <oliver@dlisk.io>
-- Max Kordek <max@dlisk.io>
+- Oliver Beddows <oliver@lisk.io>
+- Max Kordek <max@lisk.io>
 
 ## License
 
 The MIT License (MIT)  
 
 Copyright (c) 2016 DL(i)sk  
+Copyright (c) 2016 Lisk
 Copyright (c) 2014-2015 Crypti  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
