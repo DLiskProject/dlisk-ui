@@ -106,7 +106,7 @@ angular.module('dliskApp').controller('appController', ['dappsService', '$scope'
     ];
 
     $scope.getPriceTicker = function () {
-        $http.get("https://explorer.dlisk.io/api/getPriceTicker")
+        $http.get("https://explorer.dlisk.com/api/getPriceTicker")
             .then(function (response) {
                 $scope.btc_usd = response.data.btc_usd;
                 $scope.dlisk_btc = response.data.dlisk_btc;
@@ -118,7 +118,7 @@ angular.module('dliskApp').controller('appController', ['dappsService', '$scope'
         $http.get("/api/peers/version").then(function (response) {
             if (response.data.success) {
                 $scope.version = response.data.version;
-                $http.get("https://login.dlisk.io/api/peers/version").then(function (response) {
+                $http.get("https://login.dlisk.com/api/peers/version").then(function (response) {
                     $scope.latest = response.data.version;
                     $scope.diffVersion = compareVersion($scope.version, $scope.latest);
                 });
@@ -406,7 +406,7 @@ angular.module('dliskApp').controller('appController', ['dappsService', '$scope'
     $scope.getSync = function () {
         $http.get("/api/loader/status/sync").then(function (resp) {
             if (resp.data.success) {
-                $scope.syncState = resp.data.sync ? (resp.data.blocks ? (Math.floor((resp.data.height / resp.data.blocks) * 100)) : 0) : 0;
+                $scope.syncState = resp.data.syncing ? (resp.data.blocks ? (Math.floor((resp.data.height / resp.data.blocks) * 100)) : 0) : 0;
                 if ($scope.syncState) {
                     $scope.loading.values = [(resp.data.height - resp.data.blocks) < 0 ? (0 - (resp.data.height - resp.data.blocks)) : (resp.data.height - resp.data.blocks), resp.data.blocks];
                 }

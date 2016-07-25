@@ -32,7 +32,7 @@ msgstr ""
 msgid "Accept / Next Step"
 msgstr ""
 
-#: partials/modals/userInfo.html:14
+#: partials/modals/userInfo.html:9
 msgid "Account"
 msgstr ""
 
@@ -64,8 +64,8 @@ msgstr ""
 #: js/controllers/walletPendingsController.js:47
 #: js/controllers/walletsController.js:148
 #: js/controllers/walletTransactionsController.js:70
-#: partials/modals/transactionInfo.html:16
-#: partials/modals/userInfo.html:60
+#: partials/modals/transactionInfo.html:19
+#: partials/modals/userInfo.html:62
 msgid "Amount"
 msgstr ""
 
@@ -97,11 +97,14 @@ msgstr ""
 msgid "Becoming a delegate requires registration. You may choose your own delegate name, which can be used to promote your delegate. Only the top 101 delegates are eligible to forge. All fees are shared equally between the top 101 delegates."
 msgstr ""
 
+#: partials/modals/blockInfo.html:7
+#: partials/modals/transactionInfo.html:4
+msgid "Block"
+msgstr ""
+
 #: js/controllers/blockchainController.js:41
 #: js/controllers/forgingController.js:115
-#: partials/modals/blockInfo.html:7
-#: partials/modals/transactionInfo.html:32
-#: partials/modals/transactionInfo.html:4
+#: partials/modals/transactionInfo.html:35
 msgid "Block ID"
 msgstr ""
 
@@ -147,7 +150,7 @@ msgstr ""
 #: partials/modals/addDappModal.html:70
 #: partials/modals/addDappModal.html:75
 #: partials/modals/addDappModal.html:8
-#: partials/modals/blockInfo.html:10
+#: partials/modals/blockInfo.html:13
 #: partials/modals/blockModal.html:9
 #: partials/modals/confirmDeletionModal.html:8
 #: partials/modals/errorModal.html:9
@@ -171,8 +174,8 @@ msgstr ""
 #: partials/modals/sendTransaction.html:57
 #: partials/modals/sendTransaction.html:8
 #: partials/modals/sendTransaction.html:92
-#: partials/modals/transactionInfo.html:7
-#: partials/modals/userInfo.html:22
+#: partials/modals/transactionInfo.html:10
+#: partials/modals/userInfo.html:16
 #: partials/modals/vote.html:49
 #: partials/modals/vote.html:8
 #: partials/modals/vote.html:84
@@ -215,16 +218,16 @@ msgstr ""
 
 #: js/controllers/walletsController.js:115
 #: js/controllers/walletTransactionsController.js:72
-#: partials/modals/blockInfo.html:20
-#: partials/modals/transactionInfo.html:13
-#: partials/modals/userInfo.html:57
+#: partials/modals/blockInfo.html:23
+#: partials/modals/transactionInfo.html:16
+#: partials/modals/userInfo.html:59
 msgid "Confirmations"
 msgstr ""
 
-#: partials/modals/blockInfo.html:74
+#: partials/modals/blockInfo.html:77
 #: partials/modals/blockModal.html:34
-#: partials/modals/transactionInfo.html:50
-#: partials/modals/userInfo.html:94
+#: partials/modals/transactionInfo.html:53
+#: partials/modals/userInfo.html:96
 msgid "CONFIRMATIONS"
 msgstr ""
 
@@ -250,16 +253,38 @@ msgstr ""
 msgid "Conversations"
 msgstr ""
 
+#: js/services/clipboardService.js:6
+msgid "Copied!"
+msgstr ""
+
 #: partials/delegates.html:127
 #: partials/delegates.html:58
+#: partials/modals/userInfo.html:22
 #: partials/votes.html:56
 msgid "Copy Address"
+msgstr ""
+
+#: partials/modals/blockInfo.html:10
+#: partials/modals/transactionInfo.html:7
+msgid "Copy Block ID"
+msgstr ""
+
+#: js/services/clipboardService.js:14
+msgid "Copy failed!"
 msgstr ""
 
 #: partials/delegates.html:130
 #: partials/delegates.html:61
 #: partials/votes.html:59
 msgid "Copy Name"
+msgstr ""
+
+#: partials/modals/userInfo.html:25
+msgid "Copy Public Key"
+msgstr ""
+
+#: partials/modals/userInfo.html:55
+msgid "Copy Transaction ID"
 msgstr ""
 
 #: js/controllers/accountController.js:8
@@ -291,6 +316,33 @@ msgstr ""
 
 #: js/controllers/appController.js:315
 msgid "Disabled"
+msgstr ""
+
+#: wallet.html:22
+msgid "DL(i)sk - Blockchain Application Platform"
+msgstr ""
+
+#: js/controllers/delegatesController.js:158
+#: js/controllers/votedDelegatesController.js:117
+#: js/controllers/walletPendingsController.js:43
+#: partials/modals/multisignatureModal.html:52
+msgid "DL(i)sk Address"
+msgstr ""
+
+#: partials/account.html:33
+msgid "DL(i)sk Client"
+msgstr ""
+
+#: partials/account.html:43
+msgid "DL(i)sk Client Outdated"
+msgstr ""
+
+#: partials/modals/sendTransaction.html:29
+msgid "DLISK Amount"
+msgstr ""
+
+#: partials/forging.html:11
+msgid "DLISK Earned"
 msgstr ""
 
 #: partials/dapp-entry.html:21
@@ -331,15 +383,15 @@ msgstr ""
 #: js/controllers/walletsController.js:149
 #: js/controllers/walletTransactionsController.js:71
 #: partials/modals/multisignatureModal.html:128
-#: partials/modals/transactionInfo.html:19
-#: partials/modals/userInfo.html:63
+#: partials/modals/transactionInfo.html:22
+#: partials/modals/userInfo.html:65
 msgid "Fee"
 msgstr ""
 
-#: partials/modals/blockInfo.html:72
+#: partials/modals/blockInfo.html:75
 #: partials/modals/blockModal.html:32
-#: partials/modals/transactionInfo.html:47
-#: partials/modals/userInfo.html:92
+#: partials/modals/transactionInfo.html:50
+#: partials/modals/userInfo.html:94
 msgid "FEE"
 msgstr ""
 
@@ -380,7 +432,7 @@ msgid "Generate New"
 msgstr ""
 
 #: js/controllers/blockchainController.js:42
-#: partials/modals/blockInfo.html:46
+#: partials/modals/blockInfo.html:49
 msgid "Generator"
 msgstr ""
 
@@ -414,7 +466,7 @@ msgstr ""
 #: js/controllers/forgingController.js:114
 #: js/controllers/transactionsController.js:61
 #: js/controllers/walletTransactionsController.js:66
-#: partials/modals/blockInfo.html:23
+#: partials/modals/blockInfo.html:26
 msgid "Height"
 msgstr ""
 
@@ -463,25 +515,6 @@ msgstr ""
 msgid "LAUNCH"
 msgstr ""
 
-#: wallet.html:22
-msgid "DL(i)sk - Blockchain Application Platform"
-msgstr ""
-
-#: js/controllers/delegatesController.js:158
-#: js/controllers/votedDelegatesController.js:117
-#: js/controllers/walletPendingsController.js:43
-#: partials/modals/multisignatureModal.html:52
-msgid "DL(i)sk Address"
-msgstr ""
-
-#: partials/account.html:33
-msgid "DL(i)sk Client"
-msgstr ""
-
-#: partials/account.html:43
-msgid "DL(i)sk Client Outdated"
-msgstr ""
-
 #: js/controllers/dappController.js:7
 #: js/controllers/dappsCategoryController.js:7
 #: js/controllers/dappsController.js:7
@@ -522,14 +555,6 @@ msgstr ""
 
 #: partials/template.html:168
 msgid "Logout"
-msgstr ""
-
-#: partials/modals/sendTransaction.html:29
-msgid "DLISK Amount"
-msgstr ""
-
-#: partials/forging.html:11
-msgid "DLISK Earned"
 msgstr ""
 
 #: partials/modals/newUser.html:72
@@ -763,11 +788,15 @@ msgstr ""
 msgid "Please read carefully."
 msgstr ""
 
+#: js/services/clipboardService.js:10
+msgid "Press &#8984;+c to copy"
+msgstr ""
+
 #: partials/modals/multisignatureModal.html:84
 msgid "Pressing enter confirms each member."
 msgstr ""
 
-#: partials/modals/blockInfo.html:41
+#: partials/modals/blockInfo.html:44
 msgid "Previous Block"
 msgstr ""
 
@@ -777,10 +806,6 @@ msgstr ""
 
 #: partials/forging.html:35
 msgid "Productivity"
-msgstr ""
-
-#: partials/modals/userInfo.html:18
-msgid "Public key"
 msgstr ""
 
 #: js/controllers/delegatesController.js:156
@@ -842,7 +867,7 @@ msgstr ""
 
 #: js/controllers/blockchainController.js:47
 #: js/controllers/forgingController.js:118
-#: partials/modals/blockInfo.html:26
+#: partials/modals/blockInfo.html:29
 msgid "Reward"
 msgstr ""
 
@@ -889,9 +914,12 @@ msgstr ""
 #: partials/delegates.html:120
 #: partials/delegates.html:51
 #: partials/modals/sendTransaction.html:13
-#: partials/modals/userInfo.html:28
 #: partials/votes.html:49
 msgid "Send DLISK"
+msgstr ""
+
+#: partials/modals/userInfo.html:28
+msgid "Send LSK"
 msgstr ""
 
 #: js/controllers/transactionsController.js:63
@@ -979,8 +1007,8 @@ msgstr ""
 msgid "Step 4/4 - Confirmation"
 msgstr ""
 
-#: partials/modals/blockInfo.html:16
-#: partials/modals/transactionInfo.html:12
+#: partials/modals/blockInfo.html:19
+#: partials/modals/transactionInfo.html:15
 #: partials/modals/userInfo.html:35
 msgid "Summary"
 msgstr ""
@@ -1012,9 +1040,9 @@ msgstr ""
 #: js/controllers/walletsController.js:147
 #: js/controllers/walletTransactionsController.js:69
 #: partials/account.html:76
-#: partials/modals/blockInfo.html:38
-#: partials/modals/transactionInfo.html:25
-#: partials/modals/userInfo.html:69
+#: partials/modals/blockInfo.html:41
+#: partials/modals/transactionInfo.html:28
+#: partials/modals/userInfo.html:71
 msgid "Time"
 msgstr ""
 
@@ -1030,7 +1058,7 @@ msgstr ""
 msgid "Top Delegates"
 msgstr ""
 
-#: partials/modals/blockInfo.html:32
+#: partials/modals/blockInfo.html:35
 msgid "Total Amount"
 msgstr ""
 
@@ -1038,7 +1066,7 @@ msgstr ""
 msgid "Total Balance"
 msgstr ""
 
-#: partials/modals/blockInfo.html:29
+#: partials/modals/blockInfo.html:32
 msgid "Total Fee"
 msgstr ""
 
@@ -1053,14 +1081,14 @@ msgstr ""
 #: partials/account.html:67
 #: partials/modals/blockModal.html:17
 #: partials/modals/userInfo.html:52
-#: partials/modals/userInfo.html:76
+#: partials/modals/userInfo.html:78
 msgid "Transaction ID"
 msgstr ""
 
 #: js/controllers/blockchainController.js:44
 #: js/controllers/transactionsController.js:8
 #: js/controllers/walletTransactionsController.js:6
-#: partials/modals/blockInfo.html:17
+#: partials/modals/blockInfo.html:20
 #: partials/modals/blockModal.html:7
 #: partials/modals/userInfo.html:46
 #: partials/modals/userInfo.html:47
@@ -1081,10 +1109,10 @@ msgstr ""
 msgid "Uptime"
 msgstr ""
 
-#: partials/modals/blockInfo.html:35
-#: partials/modals/transactionInfo.html:22
+#: partials/modals/blockInfo.html:38
+#: partials/modals/transactionInfo.html:25
 #: partials/modals/userInfo.html:39
-#: partials/modals/userInfo.html:66
+#: partials/modals/userInfo.html:68
 msgid "USD Equivalent"
 msgstr ""
 
