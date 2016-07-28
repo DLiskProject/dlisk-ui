@@ -43,6 +43,6 @@
     "requests": "0.0.1",
     "socket.io": "^1.3.5",
     "buffer": "latest",
-    "dlisk-js": "git@github.com:DliskProject/dlisk-js.git"
+    "dlisk-js": "git://github.com/DLiskProject/dlisk-js.git"
   }
 }
