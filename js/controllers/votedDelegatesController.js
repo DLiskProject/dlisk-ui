@@ -114,7 +114,7 @@ angular.module('dliskApp').controller('votedDelegatesController', ['$scope', '$r
     $scope.tableMyDelegates.cols = {
         rate : gettextCatalog.getString('Rank'),
         username : gettextCatalog.getString('Name'),
-        address : gettextCatalog.getString('DL(i)sk Address'),
+        address : gettextCatalog.getString('DAPPSTER Address'),
         productivity : gettextCatalog.getString('Uptime'),
         vote : gettextCatalog.getString('Approval')
     };

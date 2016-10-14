@@ -64,7 +64,7 @@ msgid "Add a new application"
 msgstr "Додати новий додаток"
 
 #: partials/modals/multisignatureModal.html:46
-msgid "Add group members by typing in their DL(i)sk address and pressing enter."
+msgid "Add group members by typing in their DAPPSTER address and pressing enter."
 msgstr "Щоб додати членів групи введіть їх адресу та натисніть кнопку ENTER."
 
 #: partials/modals/secondPassphraseModal.html:126
@@ -335,8 +335,8 @@ msgstr "ВИНАГОРОДA"
 #: partials/modals/registrationDelegateModal.html:23
 #: partials/modals/secondPassphraseModal.html:28
 #: partials/modals/sendTransaction.html:31 partials/modals/vote.html:25
-msgid "Fee: {{fee | dliskFilter}} DLISK"
-msgstr "Винагорода: {{fee | dliskFilter}} DLISK"
+msgid "Fee: {{fee | dliskFilter}} DAPPSTER"
+msgstr "Винагорода: {{fee | dliskFilter}} DAPPSTER"
 
 #: partials/forging.html:74
 msgid "Forged Blocks"
@@ -452,23 +452,23 @@ msgid "LAUNCH"
 msgstr "ЗАПУСТИТИ"
 
 #: wallet.html:20
-msgid "DL(i)sk - Blockchain Application Platform"
-msgstr "DL(i)sk - платформа для Blockchain додатків"
+msgid "DAPPSTER - Blockchain Application Platform"
+msgstr "DAPPSTER - платформа для Blockchain додатків"
 
 #: js/controllers/delegatesController.js:158
 #: js/controllers/votedDelegatesController.js:117
 #: js/controllers/walletPendingsController.js:43
 #: partials/modals/multisignatureModal.html:52
-msgid "DL(i)sk Address"
-msgstr "DL(i)sk Адреса"
+msgid "DAPPSTER Address"
+msgstr "DAPPSTER Адреса"
 
 #: partials/account.html:33
-msgid "DL(i)sk Client"
-msgstr "DL(i)sk Клієнт"
+msgid "DAPPSTER Client"
+msgstr "DAPPSTER Клієнт"
 
 #: partials/account.html:43
-msgid "DL(i)sk Client Outdated"
-msgstr "Версія DL(i)sk Клієнта застаріла"
+msgid "DAPPSTER Client Outdated"
+msgstr "Версія DAPPSTER Клієнта застаріла"
 
 #: js/controllers/dappController.js:7
 #: js/controllers/dappsCategoryController.js:7
@@ -512,12 +512,12 @@ msgid "Logout"
 msgstr "Вихід"
 
 #: partials/modals/sendTransaction.html:29
-msgid "DLISK Amount"
-msgstr "Кількість DLISK"
+msgid "DAPPSTER Amount"
+msgstr "Кількість DAPPSTER"
 
 #: partials/forging.html:11
-msgid "DLISK Earned"
-msgstr "Зароблено DLISK"
+msgid "DAPPSTER Earned"
+msgstr "Зароблено DAPPSTER"
 
 #: partials/modals/newUser.html:72
 msgid ""
@@ -554,10 +554,10 @@ msgstr ""
 
 #: partials/modals/sendTransaction.html:41
 msgid ""
-"Make sure you're sending DLISK to the right address. This action can't be "
+"Make sure you're sending DAPPSTER to the right address. This action can't be "
 "undone later."
 msgstr ""
-"Переконайтеся, що ви посилаєте DLISK за потрібною адресою. Ця дія не може бути "
+"Переконайтеся, що ви посилаєте DAPPSTER за потрібною адресою. Ця дія не може бути "
 "скасовано пізніше."
 
 #: js/controllers/modals/masterPassphraseModalController.js:9
@@ -692,10 +692,10 @@ msgstr "Транзакції в очікуванні"
 #: partials/modals/multisignatureModal.html:107
 msgid ""
 "Please check your input below and go back if necessary. Double-check the "
-"group members, else you risk losing your DLISK balance!"
+"group members, else you risk losing your DAPPSTER balance!"
 msgstr ""
 "Будь ласка, перевірте введені дані нижче і поверніться у разі потреби. "
-"Перевірити ще раз членів групи, інакше ви ризикуєте втратити свій DLISK баланс!"
+"Перевірити ще раз членів групи, інакше ви ризикуєте втратити свій DAPPSTER баланс!"
 
 #: partials/modals/registrationDelegateModal.html:15
 msgid "Please choose a delegate name."
@@ -719,10 +719,10 @@ msgstr "Будь ласка, введіть основний пароль для
 
 #: partials/modals/sendTransaction.html:15
 msgid ""
-"Please enter the Recipient Address and DLISK Amount that you would like send "
+"Please enter the Recipient Address and DAPPSTER Amount that you would like send "
 "below."
 msgstr ""
-"Будь ласка, введіть адресу одержувача та суму DLISK, яку ви хотіли б "
+"Будь ласка, введіть адресу одержувача та суму DAPPSTER, яку ви хотіли б "
 "відправити, нижче."
 
 #: partials/modals/addDappModal.html:142 partials/modals/forgingModal.html:16
@@ -898,8 +898,8 @@ msgstr "відправити dlisk"
 #: partials/delegates.html:120 partials/delegates.html:51
 #: partials/modals/sendTransaction.html:13 partials/modals/userInfo.html:28
 #: partials/votes.html:49
-msgid "Send DLISK"
-msgstr "Відправити DLISK"
+msgid "Send DAPPSTER"
+msgstr "Відправити DAPPSTER"
 
 #: js/controllers/transactionsController.js:63 partials/account.html:70
 msgid "Sender"
@@ -987,24 +987,24 @@ msgstr "Підсумок"
 
 #: partials/modals/openDappModal.html:19
 msgid ""
-"The DL(i)sk apps platform currently does not provide any protection against any "
+"The DAPPSTER apps platform currently does not provide any protection against any "
 "unauthorized system calls made from the running application. Therefore "
 "opening any untrusted applications is not yet advisable, and could "
 "potentially lead to loss of funds."
 msgstr ""
-"Платформа додатків DL(i)sk в даний час не забезпечує захист від будь-яких "
+"Платформа додатків DAPPSTER в даний час не забезпечує захист від будь-яких "
 "несанкціонованих системних викликів, зроблених з запущеного додатку. Тому "
 "відкриття будь-яких ненадійних додатків ще не рекомендується, і потенційно "
 "може призвести до втрати коштів."
 
 #: partials/modals/masterPassphraseModal.html:30
 msgid ""
-"The master passphrase is auto-generated upon first launching the DL(i)sk "
+"The master passphrase is auto-generated upon first launching the DAPPSTER "
 "client. It can be found at the end of the config.json file. Therefore only "
 "node operators can install, launch or uninstall applications. Once "
 "applications are in a launched state, anyone is free to open and use them."
 msgstr ""
-"Майстер пароль генерується автоматично при першому запуску клієнта DL(i)sk. "
+"Майстер пароль генерується автоматично при першому запуску клієнта DAPPSTER. "
 "Його можна знайти в кінці файлу config.json. Тому тільки оператори вузлів "
 "можуть встановлювати, запускати або видаляти додатки. Після того, як додатки "
 "знаходяться в запущеному стані, будь-хто може вільно відкривати і "
@@ -1030,25 +1030,25 @@ msgstr ""
 msgid ""
 "This walkthrough will guide you through the necessary steps to create a "
 "multi-signature group. It's very important that you know what multi-"
-"signatures are, else you risk loosing your DLISK balance.<br><br>A multi-"
+"signatures are, else you risk loosing your DAPPSTER balance.<br><br>A multi-"
 "signature group consists of N accounts, the one who created the group is the "
 "group owner. When the owner wants to make a transaction, M of N accounts "
 "within the group need to confirm it, otherwise the transaction will not be "
 "processed. The values M and N are specified in this walkthrough."
 "<br><br><b>Things you need to know for the multi-signature group setup:</"
 "b><br><br>• The number of group members (N).<br>• The number of needed "
-"confirmations (M).<br>• The addresses of the DL(i)sk accounts you want to add "
+"confirmations (M).<br>• The addresses of the DAPPSTER accounts you want to add "
 "to the group."
 msgstr ""
 "Цей покроковий посібник проведе вас через необхідні кроки для створення "
 "групи з мульти-підписом. Це дуже важливо, що Ви знаєте, що таке мульти-"
-"підпис, інакше ви можете втратити свої DLISK.<br><br>Група з мульти-підписом "
+"підпис, інакше ви можете втратити свої DAPPSTER.<br><br>Група з мульти-підписом "
 "складається з N рахунків, той, хто створив групу є власником групи. Коли "
 "власник хоче здійснити операцію, М з N рахунків усередині групи повинні "
 "підтвердити його, в іншому випадку угода не буде оброблятися. Значення М та "
 "N вказані в цьому посібнику <br><br><b>Речі, які потрібно знати для "
 "установки групи з мульти-підписом:</b><br><br>• Число членів групи (N).<br>• "
-"Кількість необхідних підтверджень (М).<br>• Адреси рахунків DL(i)sk які ви "
+"Кількість необхідних підтверджень (М).<br>• Адреси рахунків DAPPSTER які ви "
 "хочете додати до групи."
 
 #: js/controllers/blockchainController.js:43
@@ -1251,8 +1251,8 @@ msgstr "Ваш другий пароль"
 #~ msgid "Installed Dapps"
 #~ msgstr "Встановлені Dapp"
 
-#~ msgid "DL(i)sk - Decentralized Application Platform"
-#~ msgstr "DL(i)sk - Платформа для децентралізованих додатків"
+#~ msgid "DAPPSTER - Decentralized Application Platform"
+#~ msgstr "DAPPSTER - Платформа для децентралізованих додатків"
 
 #~ msgid "LISK Amount"
 #~ msgstr "Кількість LISK"

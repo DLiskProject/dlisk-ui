@@ -64,9 +64,9 @@ msgid "Add a new application"
 msgstr "Añadir nueva aplicación"
 
 #: partials/modals/multisignatureModal.html:46
-msgid "Add group members by typing in their DL(i)sk address and pressing enter."
+msgid "Add group members by typing in their DAPPSTER address and pressing enter."
 msgstr ""
-"Añadir miembros de grupo escribiendo su dirección DL(i)sk y pulsando enter."
+"Añadir miembros de grupo escribiendo su dirección DAPPSTER y pulsando enter."
 
 #: partials/modals/secondPassphraseModal.html:126
 msgid "ADD SECOND PASSPHRASE"
@@ -336,7 +336,7 @@ msgstr "COMISIÓN "
 #: partials/modals/registrationDelegateModal.html:23
 #: partials/modals/secondPassphraseModal.html:28
 #: partials/modals/sendTransaction.html:31 partials/modals/vote.html:25
-msgid "Fee: {{fee | dliskFilter}} DLISK"
+msgid "Fee: {{fee | dliskFilter}} DAPPSTER"
 msgstr "Comision"
 
 #: partials/forging.html:74
@@ -454,23 +454,23 @@ msgid "LAUNCH"
 msgstr "COMENZAR"
 
 #: wallet.html:20
-msgid "DL(i)sk - Blockchain Application Platform"
-msgstr "DL(i)sk - Plataforma de Aplicaciones Blockchain"
+msgid "DAPPSTER - Blockchain Application Platform"
+msgstr "DAPPSTER - Plataforma de Aplicaciones Blockchain"
 
 #: js/controllers/delegatesController.js:158
 #: js/controllers/votedDelegatesController.js:117
 #: js/controllers/walletPendingsController.js:43
 #: partials/modals/multisignatureModal.html:52
-msgid "DL(i)sk Address"
-msgstr "Dirección DLISK"
+msgid "DAPPSTER Address"
+msgstr "Dirección DAPPSTER"
 
 #: partials/account.html:33
-msgid "DL(i)sk Client"
-msgstr "Cliente DL(i)sk"
+msgid "DAPPSTER Client"
+msgstr "Cliente DAPPSTER"
 
 #: partials/account.html:43
-msgid "DL(i)sk Client Outdated"
-msgstr "Cliente DL(i)sk Desactualizado"
+msgid "DAPPSTER Client Outdated"
+msgstr "Cliente DAPPSTER Desactualizado"
 
 #: js/controllers/dappController.js:7
 #: js/controllers/dappsCategoryController.js:7
@@ -514,12 +514,12 @@ msgid "Logout"
 msgstr "Cerrar sesión"
 
 #: partials/modals/sendTransaction.html:29
-msgid "DLISK Amount"
-msgstr "Cantidad DLISK"
+msgid "DAPPSTER Amount"
+msgstr "Cantidad DAPPSTER"
 
 #: partials/forging.html:11
-msgid "DLISK Earned"
-msgstr "DLISK Ganados"
+msgid "DAPPSTER Earned"
+msgstr "DAPPSTER Ganados"
 
 #: partials/modals/newUser.html:72
 msgid ""
@@ -557,10 +557,10 @@ msgstr ""
 
 #: partials/modals/sendTransaction.html:41
 msgid ""
-"Make sure you're sending DLISK to the right address. This action can't be "
+"Make sure you're sending DAPPSTER to the right address. This action can't be "
 "undone later."
 msgstr ""
-"Asegúrese de que ha enviado DLISK a la dirección correcta. Está acción no "
+"Asegúrese de que ha enviado DAPPSTER a la dirección correcta. Está acción no "
 "podrá ser revertida más adelante"
 
 #: js/controllers/modals/masterPassphraseModalController.js:9
@@ -696,10 +696,10 @@ msgstr "Transacciones Pendientes"
 #: partials/modals/multisignatureModal.html:107
 msgid ""
 "Please check your input below and go back if necessary. Double-check the "
-"group members, else you risk losing your DLISK balance!"
+"group members, else you risk losing your DAPPSTER balance!"
 msgstr ""
 "Por favor revise su input debajo y vuelve atrás si es necesario.  Vuelve a "
-"verificar los miembros del grupo,  de lo contrario perderá su saldo DLISK!"
+"verificar los miembros del grupo,  de lo contrario perderá su saldo DAPPSTER!"
 
 #: partials/modals/registrationDelegateModal.html:15
 msgid "Please choose a delegate name."
@@ -723,10 +723,10 @@ msgstr "Por favor introduzca la passpharse maestra para este nodo. "
 
 #: partials/modals/sendTransaction.html:15
 msgid ""
-"Please enter the Recipient Address and DLISK Amount that you would like send "
+"Please enter the Recipient Address and DAPPSTER Amount that you would like send "
 "below."
 msgstr ""
-"Por favor introduzca la Dirección Destinataria y la cantidad DLISK que le "
+"Por favor introduzca la Dirección Destinataria y la cantidad DAPPSTER que le "
 "gustaría enviar mas abajo."
 
 #: partials/modals/addDappModal.html:142 partials/modals/forgingModal.html:16
@@ -905,8 +905,8 @@ msgstr "enviar dlisk"
 #: partials/delegates.html:120 partials/delegates.html:51
 #: partials/modals/sendTransaction.html:13 partials/modals/userInfo.html:28
 #: partials/votes.html:49
-msgid "Send DLISK"
-msgstr "Enviar DLISK"
+msgid "Send DAPPSTER"
+msgstr "Enviar DAPPSTER"
 
 #: js/controllers/transactionsController.js:63 partials/account.html:70
 msgid "Sender"
@@ -994,12 +994,12 @@ msgstr "Resumen "
 
 #: partials/modals/openDappModal.html:19
 msgid ""
-"The DL(i)sk apps platform currently does not provide any protection against any "
+"The DAPPSTER apps platform currently does not provide any protection against any "
 "unauthorized system calls made from the running application. Therefore "
 "opening any untrusted applications is not yet advisable, and could "
 "potentially lead to loss of funds."
 msgstr ""
-"La plataforma DL(i)sk apps actualmente no ofrece ninguna protección contra "
+"La plataforma DAPPSTER apps actualmente no ofrece ninguna protección contra "
 "llamadas del sistema no autorizadas realizadas por las aplicaciones en "
 "ejecución. Por lo tanto, abrir una aplicación no confiable aun no es "
 "aconsejable, ya que podría producir una perdida total de fondos.\n"
@@ -1007,13 +1007,13 @@ msgstr ""
 
 #: partials/modals/masterPassphraseModal.html:30
 msgid ""
-"The master passphrase is auto-generated upon first launching the DL(i)sk "
+"The master passphrase is auto-generated upon first launching the DAPPSTER "
 "client. It can be found at the end of the config.json file. Therefore only "
 "node operators can install, launch or uninstall applications. Once "
 "applications are in a launched state, anyone is free to open and use them."
 msgstr ""
 "La passphrase maestra es generada automáticamente en el primer lanzamiento "
-"del cliente DL(i)sk. Puede ser encontrada al final del archivo config.json. Por "
+"del cliente DAPPSTER. Puede ser encontrada al final del archivo config.json. Por "
 "lo tanto, sólo los operadores de nodos pueden instalar, desinstalar o "
 "ejecutar aplicaciones. Una vez lanzadas las aplicaciones, cualquiera es "
 "libre de abrirlas y utilizarlas."
@@ -1038,26 +1038,26 @@ msgstr ""
 msgid ""
 "This walkthrough will guide you through the necessary steps to create a "
 "multi-signature group. It's very important that you know what multi-"
-"signatures are, else you risk loosing your DLISK balance.<br><br>A multi-"
+"signatures are, else you risk loosing your DAPPSTER balance.<br><br>A multi-"
 "signature group consists of N accounts, the one who created the group is the "
 "group owner. When the owner wants to make a transaction, M of N accounts "
 "within the group need to confirm it, otherwise the transaction will not be "
 "processed. The values M and N are specified in this walkthrough."
 "<br><br><b>Things you need to know for the multi-signature group setup:</"
 "b><br><br>• The number of group members (N).<br>• The number of needed "
-"confirmations (M).<br>• The addresses of the DL(i)sk accounts you want to add "
+"confirmations (M).<br>• The addresses of the DAPPSTER accounts you want to add "
 "to the group."
 msgstr ""
 "Este tutorial le guiará a través de los pasos necesarios para crear un grupo "
 "multifirma. Es muy importante que sepas que es Multifirma, de lo contrario "
-"corre el riesgo de perder su saldo DLISK.<br><br> Un grupo multifirma consta "
+"corre el riesgo de perder su saldo DAPPSTER.<br><br> Un grupo multifirma consta "
 "de N cuentas, el creador del grupo es el propietario del grupo. Cuando el "
 "propietario quiere hacer una transacción, M de N cuentas dentro del grupo "
 "necesitan confirmarlo, de lo contrario la transacción no será procesada. Los "
 "valores M y N se especifican en este tutorial.<br><br><b> Las cosas que "
 "necesita saber para la configuración de grupo multifirma:</b><br><br>• El "
 "número de miembros del grupo (N).<br>• El numero de confirmaciones "
-"necesarias (M).<br>• Las direcciones de las cuentas DL(i)sk que desea añadir al "
+"necesarias (M).<br>• Las direcciones de las cuentas DAPPSTER que desea añadir al "
 "grupo."
 
 #: js/controllers/blockchainController.js:43

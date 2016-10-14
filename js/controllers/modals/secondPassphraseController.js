@@ -31,7 +31,7 @@ angular.module('dliskApp').controller('secondPassphraseModalController', ["$scop
 
     $scope.savePassToFile = function (pass) {
         var blob = new Blob([pass], { type: "text/plain;charset=utf-8" });
-        FS.saveAs(blob, "DL(i)skSecondPassphrase.txt");
+        FS.saveAs(blob, "DAPPSTERSecondPassphrase.txt");
     }
 
     $scope.confirmNewPassphrase = function () {

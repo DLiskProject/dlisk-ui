@@ -135,7 +135,7 @@ angular.module('dliskApp').controller('sendTransactionController', ['$scope', 's
         if (!throwError) throwError = false;
 
         function error () {
-            $scope.errorMessage.amount = 'Invalid DLISK amount';
+            $scope.errorMessage.amount = 'Invalid DAPPSTER amount';
 
             if (throwError) {
               throw $scope.errorMessage.amount;
@@ -194,7 +194,7 @@ angular.module('dliskApp').controller('sendTransactionController', ['$scope', 's
         }
 
         if (($scope.amount + '').indexOf('.') != -1 && $scope.amount.split('.')[1].length > 8) {
-            $scope.errorMessage.amount = 'DLISK amount must not have more than 8 decimal places';
+            $scope.errorMessage.amount = 'DAPPSTER amount must not have more than 8 decimal places';
             return;
         }
 

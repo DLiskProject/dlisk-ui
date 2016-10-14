@@ -27,7 +27,7 @@ angular.module('dliskApp').controller('newUserController', ["$scope", "$http", "
 
     $scope.savePassToFile = function (pass) {
         var blob = new Blob([pass], { type: "text/plain;charset=utf-8" });
-        FS.saveAs(blob, "DL(i)skPassphrase.txt");
+        FS.saveAs(blob, "DAPPSTERPassphrase.txt");
     }
 
     $scope.login = function (pass) {

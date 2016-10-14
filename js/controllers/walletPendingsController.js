@@ -40,7 +40,7 @@ angular.module('dliskApp').controller('walletPendingsController', ['$scope', '$r
     });
 
     $scope.tableTransactions.cols = {
-        wallet : gettextCatalog.getString('DL(i)sk Address'),
+        wallet : gettextCatalog.getString('DAPPSTER Address'),
         transactionId : gettextCatalog.getString('Transaction ID'),
         recipientId : gettextCatalog.getString('Recipient'),
         timestamp : gettextCatalog.getString('Time'),

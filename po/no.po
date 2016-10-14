@@ -59,9 +59,9 @@ msgid "Account Verification"
 msgstr "Kontobekreftelse"
 
 #: partials/modals/multisignatureModal.html:46
-msgid "Add group members by typing in their DL(i)sk address and pressing enter."
+msgid "Add group members by typing in their DAPPSTER address and pressing enter."
 msgstr ""
-"Legg til gruppemedlemmer ved å taste inn deres DL(i)sk addresse og trykk enter."
+"Legg til gruppemedlemmer ved å taste inn deres DAPPSTER addresse og trykk enter."
 
 #: partials/modals/secondPassphraseModal.html:126
 msgid "ADD SECOND PASSPHRASE"
@@ -330,8 +330,8 @@ msgstr "AVGIFT"
 #: partials/modals/registrationDelegateModal.html:23
 #: partials/modals/secondPassphraseModal.html:28
 #: partials/modals/sendTransaction.html:31 partials/modals/vote.html:25
-msgid "Fee: {{fee | dliskFilter}} DLISK"
-msgstr "Avgift: {{fee | dliskFilter}} DLISK"
+msgid "Fee: {{fee | dliskFilter}} DAPPSTER"
+msgstr "Avgift: {{fee | dliskFilter}} DAPPSTER"
 
 #: partials/forging.html:74
 msgid "Forged Blocks"
@@ -448,23 +448,23 @@ msgid "LAUNCH"
 msgstr "START"
 
 #: wallet.html:22
-msgid "DL(i)sk - Blockchain Application Platform"
-msgstr "DL(i)sk - Blokkjede Applikasjon Plattform"
+msgid "DAPPSTER - Blockchain Application Platform"
+msgstr "DAPPSTER - Blokkjede Applikasjon Plattform"
 
 #: js/controllers/delegatesController.js:158
 #: js/controllers/votedDelegatesController.js:117
 #: js/controllers/walletPendingsController.js:43
 #: partials/modals/multisignatureModal.html:52
-msgid "DL(i)sk Address"
-msgstr "DL(i)sk adresse"
+msgid "DAPPSTER Address"
+msgstr "DAPPSTER adresse"
 
 #: partials/account.html:33
-msgid "DL(i)sk Client"
-msgstr "DL(i)sk klient"
+msgid "DAPPSTER Client"
+msgstr "DAPPSTER klient"
 
 #: partials/account.html:43
-msgid "DL(i)sk Client Outdated"
-msgstr "DL(i)sk klient utdatert"
+msgid "DAPPSTER Client Outdated"
+msgstr "DAPPSTER klient utdatert"
 
 #: js/controllers/dappController.js:7
 #: js/controllers/dappsCategoryController.js:7
@@ -508,12 +508,12 @@ msgid "Logout"
 msgstr "Logg ut"
 
 #: partials/modals/sendTransaction.html:29
-msgid "DLISK Amount"
-msgstr "DLISK beløp"
+msgid "DAPPSTER Amount"
+msgstr "DAPPSTER beløp"
 
 #: partials/forging.html:11
-msgid "DLISK Earned"
-msgstr "DLISK tjent"
+msgid "DAPPSTER Earned"
+msgstr "DAPPSTER tjent"
 
 #: partials/modals/newUser.html:72
 msgid ""
@@ -552,10 +552,10 @@ msgstr ""
 
 #: partials/modals/sendTransaction.html:41
 msgid ""
-"Make sure you're sending DLISK to the right address. This action can't be "
+"Make sure you're sending DAPPSTER to the right address. This action can't be "
 "undone later."
 msgstr ""
-"Forsikre deg om at du sender DLISK til riktig adresse. Denne aksjonen kan ikke "
+"Forsikre deg om at du sender DAPPSTER til riktig adresse. Denne aksjonen kan ikke "
 "angres."
 
 #: js/controllers/modals/masterPassphraseModalController.js:9
@@ -690,10 +690,10 @@ msgstr "Ventende transaksjoner"
 #: partials/modals/multisignatureModal.html:107
 msgid ""
 "Please check your input below and go back if necessary. Double-check the "
-"group members, else you risk losing your DLISK balance!"
+"group members, else you risk losing your DAPPSTER balance!"
 msgstr ""
 "Vær vennlig å sjekke din inntasting nedenfor og gå tilbake hvis noe er feil. "
-"Dobbelsjekk gruppemedlemmene ellers risikerer du å miste din DLISK balanse!"
+"Dobbelsjekk gruppemedlemmene ellers risikerer du å miste din DAPPSTER balanse!"
 
 #: partials/modals/registrationDelegateModal.html:15
 msgid "Please choose a delegate name."
@@ -717,10 +717,10 @@ msgstr "Vær vennlig å taste inn masterpassfrasen for denne noden."
 
 #: partials/modals/sendTransaction.html:15
 msgid ""
-"Please enter the Recipient Address and DLISK Amount that you would like send "
+"Please enter the Recipient Address and DAPPSTER Amount that you would like send "
 "below."
 msgstr ""
-"Vær vennlig å taste inn mottaker adresse og DLISK beløp nedenfor som du vil "
+"Vær vennlig å taste inn mottaker adresse og DAPPSTER beløp nedenfor som du vil "
 "sende."
 
 #: partials/modals/addDappModal.html:142 partials/modals/forgingModal.html:16
@@ -896,8 +896,8 @@ msgstr "send dlisk"
 #: partials/delegates.html:120 partials/delegates.html:51
 #: partials/modals/sendTransaction.html:13 partials/modals/userInfo.html:28
 #: partials/votes.html:49
-msgid "Send DLISK"
-msgstr "Send DLISK"
+msgid "Send DAPPSTER"
+msgstr "Send DAPPSTER"
 
 #: js/controllers/transactionsController.js:63 partials/account.html:70
 msgid "Sender"
@@ -985,24 +985,24 @@ msgstr "Oppsumering"
 
 #: partials/modals/openDappModal.html:19
 msgid ""
-"The DL(i)sk apps platform currently does not provide any protection against any "
+"The DAPPSTER apps platform currently does not provide any protection against any "
 "unauthorized system calls made from the running application. Therefore "
 "opening any untrusted applications is not yet advisable, and could "
 "potentially lead to loss of funds."
 msgstr ""
-"DL(i)sk applikasjonsplattformen støtter på nåværende tidspunkt ingen "
+"DAPPSTER applikasjonsplattformen støtter på nåværende tidspunkt ingen "
 "beskyttelse mot uautoriserte system kall gjort av den kjørende "
 "applikasjonen. Derfor å åpne applikasjoner som man ikke stoler på er ikke å "
 "anbefale og kan forårsake tap av midler."
 
 #: partials/modals/masterPassphraseModal.html:30
 msgid ""
-"The master passphrase is auto-generated upon first launching the DL(i)sk "
+"The master passphrase is auto-generated upon first launching the DAPPSTER "
 "client. It can be found at the end of the config.json file. Therefore only "
 "node operators can install, launch or uninstall applications. Once "
 "applications are in a launched state, anyone is free to open and use them."
 msgstr ""
-"Master passfrasen er autogenerert ved første kjøring av DL(i)sk klienten. "
+"Master passfrasen er autogenerert ved første kjøring av DAPPSTER klienten. "
 "Passfrasen finner man på slutten av config.json filen. Dermed kan bare node "
 "operatører installere, lansere eller fjerne applikasjoner. Med en gang "
 "applikasjoner er i lanser status kan hvem som helst fritt åpne og bruke dem."
@@ -1027,25 +1027,25 @@ msgstr ""
 msgid ""
 "This walkthrough will guide you through the necessary steps to create a "
 "multi-signature group. It's very important that you know what multi-"
-"signatures are, else you risk loosing your DLISK balance.<br><br>A multi-"
+"signatures are, else you risk loosing your DAPPSTER balance.<br><br>A multi-"
 "signature group consists of N accounts, the one who created the group is the "
 "group owner. When the owner wants to make a transaction, M of N accounts "
 "within the group need to confirm it, otherwise the transaction will not be "
 "processed. The values M and N are specified in this walkthrough."
 "<br><br><b>Things you need to know for the multi-signature group setup:</"
 "b><br><br>• The number of group members (N).<br>• The number of needed "
-"confirmations (M).<br>• The addresses of the DL(i)sk accounts you want to add "
+"confirmations (M).<br>• The addresses of the DAPPSTER accounts you want to add "
 "to the group."
 msgstr ""
 "Denne gjennomgangen vil ta deg gjennom de nødvendige stegene for å opprette "
 "en multisignatur gruppe. Det er veldig viktig at du vet hva multisignatur "
-"er, ellers risikerer du å miste din DLISK balanse.<br><br>En multisignatur "
+"er, ellers risikerer du å miste din DAPPSTER balanse.<br><br>En multisignatur "
 "gruppe består av N kontoer, den som oppretter gruppen er gruppeeier. Når "
 "eieren vil gjennomføre en transaksjon må M av N kontoer i gruppen bekrefte "
 "ellers vil ikke transaksjonen bli gjennomført. Verdien av M og N er "
 "spesifisert i denne gjennomgangen.<br><br><br><b>Dette trenger du å vite om "
 "multisignatur gruppe oppsett:</b><br><br>• Antall gruppemedlemmer (N).<br>• "
-"Antall bekreftelser  som trengs (M).<br>• Adressene til DL(i)sk kontoene du vil "
+"Antall bekreftelser  som trengs (M).<br>• Adressene til DAPPSTER kontoene du vil "
 "legge til i gruppen."
 
 #: js/controllers/blockchainController.js:43
@@ -1320,7 +1320,7 @@ msgstr "Din andre passfrase"
 #~ msgid "LISK Earned"
 #~ msgstr "LISK tjent"
 
-#~ msgid "DL(i)sk - Decentralized Application Platform"
+#~ msgid "DAPPSTER - Decentralized Application Platform"
 #~ msgstr "LISK - Desentralisert Applikasjons Plattform"
 
 #~ msgid "Loading contacts"
@@ -1494,7 +1494,7 @@ msgstr "Din andre passfrase"
 #~ "walkthrough.<br><br><b>Things you need to know for the multi-signature "
 #~ "group setup:</b><br><br>• The number of group members (N).<br>• The "
 #~ "number of needed confirmations (M).<br>• The account names or IDs from "
-#~ "the DL(i)sk accounts you want to add to the group."
+#~ "the DAPPSTER accounts you want to add to the group."
 #~ msgstr ""
 #~ "Denne gjennomgangen vil guide deg gjennom de nødvendige skritt for å "
 #~ "skape et multi-signatur gruppe. Det er veldig viktig at du vet hva multi-"
@@ -1505,7 +1505,7 @@ msgstr "Din andre passfrase"
 #~ "behandlet. Verdiene m og n er angitt i denne gjennomgangen."
 #~ "<br><br><b>Ting du trenger å vite for multi-signatur gruppeoppsett. </"
 #~ "b><br><br> • Antall medlemmer av gruppen ( N). <br> • antallet nødvendige "
-#~ "bekreftelser (ME). <være> • de kontonavn eller ID-er fra DL(i)sk kontoer du "
+#~ "bekreftelser (ME). <være> • de kontonavn eller ID-er fra DAPPSTER kontoer du "
 #~ "vil legge til i gruppen."
 
 #~ msgid "Transaction"
@@ -1522,34 +1522,34 @@ msgstr "Din andre passfrase"
 
 #~ msgid ""
 #~ "You are about to register your decentralized application (dapp) on the "
-#~ "DL(i)sk network. After the registration all DL(i)sk users will be able to see "
-#~ "your dapp on the DL(i)sk Dapp Store and they will also be able to install "
+#~ "DAPPSTER network. After the registration all DAPPSTER users will be able to see "
+#~ "your dapp on the DAPPSTER Dapp Store and they will also be able to install "
 #~ "and launch it.<br><br>One of the characteristics of blockchains is that "
 #~ "you can't delete any content from them. Therefore make sure you have used "
 #~ "the correct dapp parameters. We also advise you to test your dapp on the "
-#~ "official DL(i)sk testnet so you can guarantee that its working flawlessly."
+#~ "official DAPPSTER testnet so you can guarantee that its working flawlessly."
 #~ "<br><br><b>Things you need to know for the registration process:</"
 #~ "b><br><br>• Dapp names are unique, you can't register the same name twice "
-#~ "on the DL(i)sk network.<br>• You can either use a centralized (GitHub) or "
+#~ "on the DAPPSTER network.<br>• You can either use a centralized (GitHub) or "
 #~ "decentralized (Sia) hosting method.<br>• Make sure that your dapp icon's "
 #~ "format is a square.<br>• Choose your tags wisely, with them your users "
-#~ "will be able to find your dapp in the Dapp Store.<br><br>The DL(i)sk Team "
+#~ "will be able to find your dapp in the Dapp Store.<br><br>The DAPPSTER Team "
 #~ "isn't liable for a dapp, solely the uploader is. So you have to make sure "
 #~ "that your dapp is legal and doesn't harm its users."
 #~ msgstr ""
-#~ "Du er i ferd med å registrere ditt desentraliserte program (Dapp) på DL(i)sk-"
-#~ "nettverket. Etter registreringen vil alle DL(i)sk-brukere kunne se din Dapp "
-#~ "på DL(i)sk Dapp Butikk og de vil også være i stand til å installere og "
+#~ "Du er i ferd med å registrere ditt desentraliserte program (Dapp) på DAPPSTER-"
+#~ "nettverket. Etter registreringen vil alle DAPPSTER-brukere kunne se din Dapp "
+#~ "på DAPPSTER Dapp Butikk og de vil også være i stand til å installere og "
 #~ "starte den.<br><br>En av egenskapene til blokkjeder er at du ikke kan "
 #~ "slette innhold fra dem. Derfor sørg for at du har brukt riktig Dapp "
 #~ "parametere. Vi anbefaler også at du kan teste din Dapp på den offisielle "
-#~ "DL(i)sk testnett slik at du kan garantere at dens arbeider feilfritt "
+#~ "DAPPSTER testnett slik at du kan garantere at dens arbeider feilfritt "
 #~ "<br><br><b>Ting du trenger å vite for registreringen.</b><br><br > • Dapp "
 #~ "navnene er unike, dermed kan du ikke registrere samme navn to ganger på "
-#~ "DL(i)sk-nettverket. <br> • du kan enten bruke en sentralisert (GitHub) eller "
+#~ "DAPPSTER-nettverket. <br> • du kan enten bruke en sentralisert (GitHub) eller "
 #~ "desentralisert (Sia) hosting metode. <br> • Sørg for at din Dapp ikonets "
 #~ "format er et kvadrat. <br> • Velg emneknagger klokt, med dem brukerne vil "
-#~ "være i stand til å finne din Dapp i Dapp Butikken.<br><br>DL(i)sk team er "
+#~ "være i stand til å finne din Dapp i Dapp Butikken.<br><br>DAPPSTER team er "
 #~ "ikke ansvarlig for en Dapp, utelukkende opplasteren er. Så du må sørge "
 #~ "for at din Dapp er lovlig og ikke skader brukerne."
 

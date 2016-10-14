@@ -1,8 +1,8 @@
-# DL(i)sk UI
+# DAPPSTER UI
 
-DL(i)sk is a next generation crypto-currency and blockchain application platform, written entirely in JavaScript. For more information please refer to our website: https://dlisk.com/.
+DAPPSTER is a next generation crypto-currency and blockchain application platform, written entirely in JavaScript. For more information please refer to our website: https://dlisk.com/.
 
-This repository contains the [AngularJS](https://angularjs.org/) based user-interface submodule of the DL(i)sk client.
+This repository contains the [AngularJS](https://angularjs.org/) based user-interface submodule of the DAPPSTER client.
 
 ## Installation
 
@@ -36,7 +36,7 @@ grunt release
 
 The MIT License (MIT)  
 
-Copyright (c) 2016 DL(i)sk  
+Copyright (c) 2016 DAPPSTER  
 Copyright (c) 2016 Lisk
 Copyright (c) 2014-2015 Crypti  
 

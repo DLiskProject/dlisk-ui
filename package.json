@@ -1,7 +1,7 @@
 {
   "name": "dlisk-ui",
   "version": "0.1.1",
-  "description": "DL(i)sk user-interface submodule",
+  "description": "DAPPSTER user-interface submodule",
   "repository": {
     "type": "git",
     "url": "git@github.com:DliskProject/dlisk-ui.git"
